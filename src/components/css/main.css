@@ -1,0 +1,58 @@
+main {
+  width: 75%;
+  display: inline-block;
+}
+
+h3,
+hr {
+  margin: 0;
+}
+
+.info {
+  margin-left: 25px;
+  margin-top: 18px;
+  border: 1px solid #9ec3e6;
+  font-family: sans-serif;
+  font-size: 12.6px;
+  background-color: #f9f9f9;
+  border-collapse: initial;
+}
+
+.index {
+  border: 1px solid #9ec3e6;
+  background-color: #f9f9f9;
+  width: 230px;
+  margin: 10px;
+}
+
+div p {
+  text-align: center;
+}
+
+body main {
+  font-family: sans-serif;
+  font-size: 0.875em;
+  line-height: 1.6;
+}
+
+tbody th {
+  text-align: left;
+}
+
+.title {
+  text-align: center;
+  background-color: #c0c0c0;
+}
+
+.head-table {
+  font-size: 20px;
+  font-style: bold;
+  background-color: #c0c0c0;
+  padding: 15px;
+}
+
+header h1 {
+  font-family: 'Linux Libertine';
+  font-size: 1.8em;
+  margin: 0;
+}
